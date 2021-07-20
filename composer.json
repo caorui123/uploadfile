@@ -1,0 +1,21 @@
+{
+    "name": "aex/for-laravel-test",
+    "description": "第一次开发包",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "uploadfile\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "caorui",
+            "email": "1412185242@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
